@@ -1,4 +1,4 @@
-# PyIPToolkit
+# PyIPToolkit V1.0
 A simple python script for finding the location of an IP address, or grabbing the IP of a website's servers.
 
 # Requirements
